@@ -16,3 +16,4 @@ function getGrade (s1, s2, s3) {
   console.log(getGrade(30,85,96));
   console.log(getGrade(92,70,40));
   console.log(getGrade(5,34,93));
+
